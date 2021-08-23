@@ -68,6 +68,7 @@ class Resume extends Component {
 					</ul>
 				</div>
 </div>
+
 </div>
 
 
