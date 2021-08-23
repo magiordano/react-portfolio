@@ -1,0 +1,128 @@
+{
+  "main": {
+    "name": "Mike Giordano",
+    "occupation": "developer",
+    "description": "I graduated from The University of Utah in Economics with an emphasis in statistical analysis. Now, I am studying web development and computer science.",
+    "image": "profilepic.jpg",
+    "bio": "I have a passion for computers and video games. Right now I am focusing on web development and am trying to broaden my coding with projects and coding challenges. Check out some of my recent projects to see what I've been up to.",
+    "contactmessage": "Feel free to contact me for any questions.",
+    "email": "magiordano77@gmail.com",
+    "phone": "435-513-1582",
+    "address": {
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84102"
+    },
+    "website": "http://www.magiordano.com",
+    "resumedownload": "",
+    "social": [
+
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/magiordano/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/magiordano",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My background has given me a solid academic understanding of data analysis and management. These academic skills are complemented by a personal interest and passion for computing. With this knowledge I am now exploring web development by creating side projects and taking computer science courses.",
+    "education": [
+      {
+        "school": "University of Utah",
+        "degree": "B.S. Economics, Statistical Analysis Emphasis (SAE)",
+        "graduated": "2017",
+        "description": "The SAE uses real-world data and statistical software to establish applied econometrics skills. Worked with Volunteers of America by providing statistical analysis and gathering for their foundation."
+      }
+    ],
+    "work": [
+      {
+        "company": "Morgan Stanley",
+        "title": "Operations Project Analyst",
+        "years": "2017 - 2018",
+        "description": "Member of eleven person remediation team responsible for working with clients and the Client Advisory Center to resolve issues identified on their accounts and encountered during service processing."
+      },
+      {
+        "company": "University of Utah IT",
+        "title": "IT Front Desk Admin",
+        "years": "2016 - 2017",
+        "description": "Managed scheduling, mail distribution, communications, and other administrative support tasks for personnel."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Javascript"
+      },
+      {
+        "name": "React"
+      },
+      {
+        "name": "Git"
+      },
+      {
+        "name": "Node"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Trending Twitch (Offline)",
+        "category": "Web application that collects data from Twitch’s api hourly and runs an analysis to find new popular streamers or ones with a higher average viewer count than usual at the time. ",
+        "image": "portfolio-1.jpg",
+        "url": "https://github.com/magiordano/twitch-api-express"
+      },
+      {
+        "title": "World of Warcraft Prospecting Value",
+        "category": "Using Blizzard's World of Warcraft API to obtain auction house prices of ore and gems. After fetch update a google spreadsheet that is used for providing the potential profit.",
+        "image": "portfolio-2.jpg",
+        "url": "https://github.com/magiordano/Whitemane_AH_Data"
+      },
+      {
+        "title": "Simple CRUD App",
+        "category": "Simple account creation page. Can be used to create a new user, view existing users and delete users. Both frontend and backend are deployed via heroku.",
+        "image": "crud.jpg",
+        "url": "https://secure-shore-13776.herokuapp.com/"
+      }
+
+    ]
+  
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Trending Twitch (Offline)",
+        "category": "Web application that collects data from Twitch’s api hourly and runs an analysis to find new popular streamers or ones with a higher average viewer count than usual at the time. ",
+        "image": "portfolio-1.jpg",
+        "url": "https://github.com/magiordano/twitch-api-express"
+      },
+      {
+        "title": "World of Warcraft Prospecting Value",
+        "category": "Using Blizzard's World of Warcraft API to obtain auction house prices of ore and gems. After fetch update a google spreadsheet that is used for providing the potential profit.",
+        "image": "portfolio-2.jpg",
+        "url": "https://github.com/magiordano/Whitemane_AH_Data"
+      },
+      {
+        "title": "Simple CRUD App",
+        "category": "Simple account creation page. Can be used to create a new user, view existing users and delete users. Both frontend and backend are deployed via heroku.",
+        "image": "crud.jpg",
+        "url": "https://secure-shore-13776.herokuapp.com/"
+      }
+
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
